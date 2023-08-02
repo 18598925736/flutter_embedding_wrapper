@@ -1,0 +1,2 @@
+# flutter_embedding_wrapper
+结合 flutterBoost将flutter嵌入到 安卓项目
